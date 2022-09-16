@@ -1,4 +1,4 @@
-# spotify_remote
+# spotify_remote : Spotify Flutter SDK demo app.
 
 This flutter app is currently designed for Android Spotify SDK only (other platform will be taken into account later).
 
